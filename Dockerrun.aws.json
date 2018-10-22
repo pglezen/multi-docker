@@ -10,7 +10,7 @@
     },
     {
       "name": "server",
-      "image": "pglezen/multi",
+      "image": "pglezen/multi-server",
       "hostname": "api",
       "essential": false,
       "memory": 128
